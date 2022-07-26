@@ -16,6 +16,9 @@
     <H2 style="text-align: center;">Haciendo despliegue en Heroku</H2>
     </p>
     <a href="func.html">funcionamiento</a>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias molestiae laborum provident blanditiis quod
+        dolorum quisquam aliquid, consectetur cupiditate, ex esse incidunt soluta ipsam beatae necessitatibus explicabo
+        magni? Eius, quasi.</p>
 </body>
 
 </html>
